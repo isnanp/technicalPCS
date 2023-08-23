@@ -8,6 +8,24 @@
       "expo-router"
     ],
     "name": "TechnicalPCS",
-    "slug": "TechnicalPCS"
+    "slug": "TechnicalPCS",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "5cdee023-2cbb-4b32-896f-d097631cd2c8"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5cdee023-2cbb-4b32-896f-d097631cd2c8"
+    },
+    "android": {
+      "package": "com.isnanp.TechnicalPCS"
+    },
+    "ios": {}
   }
 }
